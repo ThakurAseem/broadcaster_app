@@ -1,0 +1,17 @@
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.LoginForm button {
+  text-align: center;
+  border: 1px black solid;
+  padding: 0.5em 1em;
+  border-radius: 15em;
+}
+.login {
+  margin-bottom: 0.5em;
+  font-size: 2em;
+  color: blue;
+}
